@@ -32,7 +32,7 @@ After starting the game instead of going to the harbor the character creator wil
   - animal whisperer
   - preacher
 - one to pick ailment, if ailment is picked one extra perk may be chosen:
-  - malaria
+  - sprained ankle
   - hearing loss
   - viewing loss
   - hallucinations
